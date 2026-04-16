@@ -26,7 +26,7 @@ Simple bilingual CLI tool for Windows.
 ## Quick Start (Windows) / Быстрый старт (Windows)
 
 ```powershell
-irm https://raw.githubusercontent.com/AntonDevia/Disable-Essential-Space/main/install.ps1 | iex
+irm https://github.com/AntonDevia/Disable-Essential-Space/releases/download/main/install.ps1 | iex
 ```
 
 <a id="manual-method"></a>
