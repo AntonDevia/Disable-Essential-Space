@@ -6,14 +6,13 @@
 - [About / Описание](#about)
 - [Features / Возможности](#features)
 - [Quick Start (Windows) / Быстрый старт (Windows)](#quick-start-windows)
-- [Quick Start (Linux) / Быстрый старт (Linux)](#quick-start-linux)
 - [Manual Method / Ручной способ](#manual-method)
 
 <a id="about"></a>
 ## About / Описание
 
-Simple bilingual CLI tool for Windows and Linux.  
-Простой двуязычный CLI-инструмент для Windows и Linux.
+Simple bilingual CLI tool for Windows.  
+Простой двуязычный CLI-инструмент для Windows.
 
 <a id="features"></a>
 ## Features / Возможности
@@ -28,19 +27,6 @@ Simple bilingual CLI tool for Windows and Linux.
 
 ```powershell
 irm https://raw.githubusercontent.com/AntonDevia/Disable-Essential-Space/main/essential-space.ps1 | iex
-```
-
-<a id="quick-start-linux"></a>
-## Quick Start (Linux) / Быстрый старт (Linux)
-
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/AntonDevia/Disable-Essential-Space/main/essential-space.sh)
-```
-
-Or / Или:
-
-```bash
-wget -qO- https://raw.githubusercontent.com/AntonDevia/Disable-Essential-Space/main/essential-space.sh | bash
 ```
 
 <a id="manual-method"></a>
